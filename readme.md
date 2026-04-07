@@ -2,9 +2,14 @@
 
 **Coffee** is a mini git-like version control system written in C++ — built from scratch as a standalone CLI tool with its own shell, commit history, file tracking and basic system commands.
 
+![C++](https://img.shields.io/badge/C++-20-blue?logo=cplusplus)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-closed--source-red)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
 ---
 
-## ✨ Highlights
+## Highlights
 
 - Initialize repositories and track file changes
 - Stage files and create commits with messages
@@ -18,7 +23,7 @@
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### Startup & `cf init`
 
@@ -46,7 +51,7 @@
 
 ---
 
-## 🚀 What I Built
+## What I Built
 
 ### Version Control Core
 
@@ -70,7 +75,7 @@ The codebase is split into `Coffee`, `Commands`, `Storage`, `Parser` and `Printe
 
 ---
 
-## ⌨️ Commands
+## Commands
 
 ### Version Control
 
@@ -101,7 +106,7 @@ count .                   Count lines across all files
 
 ---
 
-## 🗂️ Object Model
+## Object Model
 
 ```
 .cf/
@@ -116,7 +121,7 @@ count .                   Count lines across all files
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - C++20 or newer
 - Visual Studio 2022 / MSVC
@@ -124,7 +129,7 @@ count .                   Count lines across all files
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Coffee/
@@ -138,7 +143,7 @@ Coffee/
 
 ---
 
-## 📌 Notes
+## Notes
 
 Built with focus on:
 
@@ -150,6 +155,6 @@ Built with focus on:
 
 ---
 
-## 📫 Author
+## Author
 
-GitHub: https://github.com/Nerii10
+GitHub: https://github.com/nerii01
